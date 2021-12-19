@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# Compiled source
+src/*.css
+
+# images
+img/*.jpg
+img/*.jpeg
+
+# misc
+package-lock.json
+img/text.txt
