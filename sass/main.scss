@@ -8,5 +8,10 @@
 @import "base/utilities";
 
 @import "layout/layout";
+//@import "layout/header";
 
-@import "pages/home";
+//@import "pages/home";
+
+@import "components/logo";
+@import "components/search_box";
+@import "components/user_navigation";
